@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammad Ramezani
-- 🎓 I graduated from Iran University of Science and Technology with a master's degree in software
+- 🎓 I have graduated from Iran University of Science and Technology with a master's degree in software
 - 👀 I’m interested in software engineering and Artificial Intelligence 
 - 🌱 I’m currently learning Microservice Architecture And I have Asp.net core, TDD, BDD And DDD programming skills
 - 💞️ I’m looking to collaborate on ASP.net Core Backend develop 
